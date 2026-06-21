@@ -2,7 +2,7 @@
     "id": "126242564",
     "name": "Flamewall",
     "author": "UNarwall",
-    "creators": "Flamewall_Creators",
+    "creators": ["Flamewall_Creators"],
     "verifier": "Cuatrocientos",
     "verification": "https://youtu.be/x4Io4zkWVRw?si=aZPfeerMzSQF5cGy",
     "percentToQualify": "100",
